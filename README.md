@@ -72,7 +72,7 @@ We conducted one epoch of training due to low computing power on our model, but 
 Contributions to this project are welcome! To contribute, please follow the standard GitHub workflow for pull requests.
 
 ## Contact Information
-If you have any questions or comments about this project, feel free to contact the project maintainer at prajwalgbdr03@gmail.com.
+If you have any questions or comments about this project, feel free to contact the project maintainer at namanbansal9509@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
